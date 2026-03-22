@@ -1,0 +1,28 @@
+                                              ==============================
+                                              ♥♥ Quoted from Osama Elzero ♥♥
+                                              ==============================
+
+
+Responsive Design 
+
+# Some Question #
+
+- What Is Responsive?
+- Why Our Websites Design Should Be Responsive ?
+- What Is Media Query ?
+- What Is Media Framework?
+- Famous Framework Versus Your Framework.
+- What i Need To Make Responsive Design? 
+
+# The Needed Knowledge And Tools #
+- Html, Css
+- jQuery Or JavaScript
+- Text Editor [ VsCode, ...]
+- Basic Knowledge Of Responsive.
+- Internet Browser [ Chrome, ...]
+
+# What You Will Learn #
+- Create Responsive Website Design From Scratch.
+- How To Create Your Own Framework.
+- How To Deal With Media Query And Screen Sizes.
+- How To Think Responsive.
